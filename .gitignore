@@ -2,6 +2,3 @@
 /SrcData/*
 *.pyc
 *.asc
-*.npy
-/ignored/*
-
