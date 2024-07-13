@@ -2,13 +2,13 @@ Detecting ridges and valleys in a hypsometric map. For this purpose, it uses fil
 
 At the begin alghorytm concat sheets of map to on big map.
 
-![] (Example/RawMap.png)
+![](Example/RawMap.png)
 
 Next interpolate points without data.
 
-![] (Example/InterpolatedMap.png)
+![](Example/InterpolatedMap.png)
 
 At the end detect valleys, ridges and filter results with image processing operations. 
 
-![] (Example/Detected.png)
+![](Example/Detected.png)
 
